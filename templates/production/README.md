@@ -7,6 +7,7 @@
 - Cloudfare
     - serverless with Rust
       https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/
+      - — compiling to → WASM
 - npm
     - npm registry
       https://www.rust-lang.org/static/pdfs/Rust-npm-Whitepaper.pdf
