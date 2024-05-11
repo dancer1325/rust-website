@@ -14,6 +14,8 @@
 - [Rustfmt](https://github.com/rust-lang/rustfmt)
     - allows
         - formatting automatically Rust code
+    - installed automatically with rust
+      - `rustfmt --version` to check
 
 - [Clippy](https://github.com/rust-lang/rust-clippy)
     - allows
