@@ -11,6 +11,8 @@
 - reliability
     - memory & thread safety
       - **Reasons:** 🧠 rich type system & ownership model 🧠
+    - option to control low-level details
+      - _Example:_ memory usage
 - productivity
   - good documentation
   - friendly compiler
