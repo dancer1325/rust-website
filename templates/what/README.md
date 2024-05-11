@@ -20,7 +20,19 @@
         - == configurable
 
 # WASM
-*
+- allows
+    - powering JS
+        - 1 module / time ❓
+    - publish to npm
+    - bundle with Webpack
+
+- 🧠Reasons to choose Rust 🧠
+    - predictable performance
+    - modern amenities
+        - lively community
+
+- References
+    - [Web Assembly](https://webassembly.org/)
 
 # Networking
 *
