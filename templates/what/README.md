@@ -48,4 +48,16 @@
         - [rocket](https://rocket.rs/)
 
 # Embedded
-* 
+- allows
+    - low-level control / NOT lose high-level conveniences
+        - ways
+            - Static Guarantees
+    - Collections
+    - Concurrency
+    - Interoperability
+    - Portability
+
+- References
+    - Embedded book
+    - Discovery Book
+    - Embedonomicon
