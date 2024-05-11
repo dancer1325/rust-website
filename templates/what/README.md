@@ -35,7 +35,17 @@
     - [Web Assembly](https://webassembly.org/)
 
 # Networking
-*
+- 🧠 Reasons why it’s great for networking services 🧠
+    - predictable performance
+        - == take control over it
+    - tiny resource footprint ❓
+    - rock-solid reliability
+    - type checker
+    - control when & where the state is shared & mutated
+    - concurrency approaches can be mixed
+    - easy-to-use libraries for the web
+        - [reqwest](https://docs.rs/reqwest/latest/reqwest/)
+        - [rocket](https://rocket.rs/)
 
 # Embedded
 * 
