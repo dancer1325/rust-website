@@ -1,9 +1,9 @@
 # www.rust-lang.org
-> the home of the rust website
 
-![CI](https://github.com/rust-lang/www.rust-lang.org/workflows/CI/badge.svg)
+* goal
+  * Rust website
 
-* [**View Staging (master)**](http://www-staging.rust-lang.org)
+## Documentation
 
 ## Development
 
