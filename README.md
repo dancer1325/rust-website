@@ -5,6 +5,8 @@
 
 ## Documentation
 
+* [here](templates/index.md)
+
 ## Development
 
 ### Running the app locally
